@@ -1,4 +1,4 @@
-# F1 Strategy App 
+# F1 Pitstop Strategy App 
 
 An interactive Jupyter Notebook app to analyze and simulate Formula 1 race strategies using data-driven insights.  
 The app helps explore pit stop timings, tire choices, and performance trade-offs to optimize race outcomes.
